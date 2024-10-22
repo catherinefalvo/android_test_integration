@@ -1,5 +1,3 @@
-
----
 # Android - Teste de Integração do Investment Card
 
 Este projeto é um aplicativo Android nativo criado para ensinar como realizar testes de integração em um componente chamado `InvestmentCard`. O projeto inclui dois exercícios principais:
@@ -42,3 +40,8 @@ Abra o Android Studio e selecione File > Open,
 
 Componentes: O componente InvestmentCard está localizado em app/src/main/java/com/example/myapplication/InvestmentCard.kt
 Testes: Os testes para o InvestmentCard estão na pasta app/src/androidTest/java/com/example/myapplication/InvestmentCardTest.kt
+
+## Evidências de Teste Catherine
+
+![image](https://github.com/user-attachments/assets/c5525923-5108-494a-b8c7-d4ec66431310)
+
